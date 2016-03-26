@@ -1,0 +1,12 @@
+{
+  "name": "crawl-proxy-test",
+  "version": "1.0.0",
+  "description": "This is a Node module to test a web proxy that crawls its target\r and by default serves the same responses as its target\r but ultimately allows those responses to be overridden and transformed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
