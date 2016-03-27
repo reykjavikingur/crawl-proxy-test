@@ -1,0 +1,1 @@
+console.log('start base server first, then start view proxy server');
