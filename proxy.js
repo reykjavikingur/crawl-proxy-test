@@ -4,5 +4,6 @@ console.log('starting the PROXY server');
 
 startProxyServer({
 	port: 4800,
-	proxyTarget: 'http://localhost:3600'
+	//proxyTarget: 'http://localhost:3600'
+	proxyTarget: 'http://www.postalmethods.com'
 });
